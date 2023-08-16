@@ -1,0 +1,9 @@
+name age
+alice 21
+ryan 30
+artem 16
+vadim 45
+ann 53
+dima 68
+masha 79
+anton 82
